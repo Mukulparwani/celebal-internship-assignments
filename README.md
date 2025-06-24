@@ -24,4 +24,10 @@ File: `assignment_2.py`
 
 ---
 
+## 📅 Week 3: Data Visualization  
+**Task**: Visualize the Netflix Movies & TV Shows dataset using matplotlib/seaborn.  
+📂 File: `Week3/assignment_3_notebook.ipynb`
+
+---
+
 More weekly tasks will be added as the internship progresses.
