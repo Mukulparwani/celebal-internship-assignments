@@ -30,4 +30,19 @@ File: `assignment_3.ipynb`
 
 ---
 
+## Week 4: In-depth Exploratory Data Analysis (Titanic Dataset)
+**Task**: Conduct a detailed EDA covering:
+- Missing value detection
+- Outlier identification
+- Distributions & relationships between features
+
+**Visualizations**:  
+- Heatmap of missing values  
+- Histograms and box plots for key numerical features  
+- Correlation heatmap  
+
+Files:  
+- `titanic.csv` (raw dataset)  
+- `assignment_4.ipynb` (notebook with code, charts, and insights)
+
 More weekly tasks will be added as the internship progresses.
