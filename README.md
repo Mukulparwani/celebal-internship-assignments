@@ -58,5 +58,28 @@ Files:
 
 ---
 
+### Week 6 – Model Evaluation & Hyperparameter Tuning 
 
+**Task**: Train multiple classification models and identify the best one through systematic evaluation and hyperparameter optimization.
+
+- Implement **RandomForest**, **SVM**, and **GradientBoosting** classifiers.
+- Use **GridSearchCV** (and optionally **RandomizedSearchCV**) for tuning key hyperparameters like `n_estimators`, `max_depth`, `C`, `kernel`, `learning_rate`, etc.
+- Evaluate models via **accuracy**, **precision**, **recall**, **F1-score**, and **classification report**.
+- Compile a comparison table to select the top-performing model.
+
+**Resources**:
+- KDnuggets guide on hyperparameter tuning with GridSearchCV & RandomizedSearchCV :contentReference[oaicite:1]{index=1}
+
+**File**:
+- `assignment_6.py` – Full script:
+  - Loads dataset (e.g. Wine dataset)
+  - Splits data (train/test)
+  - Defines models & hyperparameter grids
+  - Runs GridSearchCV (and RandomizedSearchCV for SVM)
+  - Evaluates and prints classification reports
+  - Summarizes results in a DataFrame
+
+  ---
+
+  
 More weekly tasks will be added as the internship progresses.
