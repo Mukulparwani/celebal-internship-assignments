@@ -45,4 +45,18 @@ Files:
 - `titanic.csv` (raw dataset)  
 - `assignment_4.ipynb` (notebook with code, charts, and insights)
 
+---
+
+### Week 5 – House Price Prediction (📈 Current Task)  
+**Task**: Build a preprocessing and feature-engineering pipeline for the Kaggle “House Prices – Advanced Regression Techniques” dataset, including:  
+- Missing-value imputation  
+- Outlier removal & skewness correction  
+- Engineered features: total square footage, bathrooms, binary flags  
+- Preprocessing pipeline with scaling and one-hot encoding  
+**File** (added):    
+- `assignment_5.ipynb` 
+
+---
+
+
 More weekly tasks will be added as the internship progresses.
