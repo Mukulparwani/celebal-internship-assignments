@@ -79,7 +79,21 @@ Files:
   - Evaluates and prints classification reports
   - Summarizes results in a DataFrame
 
-  ---
+---
 
-  
+## Week 7: Deploying Machine Learning Model using Streamlit  
+**Task**: Build an interactive web app using Streamlit to serve a trained machine learning model.  
+- Train and save a `RandomForestClassifier` on the Iris dataset  
+- Create a user-friendly Streamlit interface with sliders  
+- Load the model and show real-time predictions  
+- Add clear UI and feedback for predicted class  
+
+📄 **Files**:  
+- `model_trainer(week-7).py` – trains and saves the model  
+- `app(week-7).py` – Streamlit app  
+- `requirements(week-7).txt` – dependencies for setup  
+
+---  
+
+
 More weekly tasks will be added as the internship progresses.
