@@ -95,5 +95,15 @@ Files:
 
 ---  
 
+## Week 8: RAG Q&A Chatbot  
+**Task**: Build a Retrieval-Augmented Generation (RAG) chatbot using document retrieval and generative AI for intelligent Q&A on a loan approval dataset.  
+- Preprocess and convert rows into textual passages  
+- Embed using `SentenceTransformer` for semantic similarity  
+- Retrieve top relevant entries for any user query  
+- Generate answers using a transformer-based language model (e.g., Falcon-7B or DistilGPT2)  
+- Optionally, deploy via Streamlit  
 
-More weekly tasks will be added as the internship progresses.
+📄 **Files**:  
+- `assignment_8.ipynb` – full notebook with preprocessing, retrieval, and response generation  
+
+
